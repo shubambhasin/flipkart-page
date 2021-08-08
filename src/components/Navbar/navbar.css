@@ -1,0 +1,14 @@
+.navbar {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  height: 50px;
+  background-color: rgb(0, 89, 255);
+  color: white;
+  box-shadow: 0px 2px 5px 1px rgb(201, 201, 201);
+}
+.jcsa {
+  justify-content: space-around;
+}
